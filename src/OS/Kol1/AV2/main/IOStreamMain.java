@@ -1,7 +1,7 @@
-package OS.Semestar1.AV2.main;
+package OS.Kol1.AV2.main;
 
-import OS.Semestar1.AV2.streams.IOStreamManager;
-import OS.Semestar1.AV2.streams.impl.IOStreamManagerImpl;
+import OS.Kol1.AV2.streams.IOStreamManager;
+import OS.Kol1.AV2.streams.impl.IOStreamManagerImpl;
 
 import java.io.File;
 import java.io.IOException;

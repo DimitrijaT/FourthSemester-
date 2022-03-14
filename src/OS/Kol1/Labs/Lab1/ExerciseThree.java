@@ -1,4 +1,4 @@
-package OS.Semestar1.Labs.Lab1;
+package OS.Kol1.Labs.Lab1;
 
 import java.io.*;
 

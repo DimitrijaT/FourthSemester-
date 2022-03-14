@@ -1,7 +1,7 @@
-package OS.Semestar1.AV1.files.impl;
+package OS.Kol1.AV1.files.impl;
 
-import OS.Semestar1.AV1.exceptions.FileExistsException;
-import OS.Semestar1.AV1.files.FileManager;
+import OS.Kol1.AV1.exceptions.FileExistsException;
+import OS.Kol1.AV1.files.FileManager;
 
 import java.io.*;
 import java.util.Date;

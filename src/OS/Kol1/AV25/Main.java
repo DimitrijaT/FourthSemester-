@@ -1,6 +1,6 @@
-package OS.Semestar1.AV25;
+package OS.Kol1.AV25;
 
-import OS.Semestar1.AV25.impl.IOStreamManagerImpl;
+import OS.Kol1.AV25.impl.IOStreamManagerImpl;
 
 import java.io.File;
 import java.io.IOException;

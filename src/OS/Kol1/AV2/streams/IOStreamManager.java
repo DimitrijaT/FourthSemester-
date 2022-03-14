@@ -1,4 +1,4 @@
-package OS.Semestar1.AV2.streams;
+package OS.Kol1.AV2.streams;
 
 import java.io.*;
 

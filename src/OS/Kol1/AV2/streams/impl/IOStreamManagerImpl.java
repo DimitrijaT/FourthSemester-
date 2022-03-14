@@ -1,6 +1,6 @@
-package OS.Semestar1.AV2.streams.impl;
+package OS.Kol1.AV2.streams.impl;
 
-import OS.Semestar1.AV2.streams.IOStreamManager;
+import OS.Kol1.AV2.streams.IOStreamManager;
 
 import java.io.*;
 

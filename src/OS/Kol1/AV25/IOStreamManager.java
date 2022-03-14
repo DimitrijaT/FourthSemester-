@@ -1,4 +1,4 @@
-package OS.Semestar1.AV25;
+package OS.Kol1.AV25;
 
 import java.io.*;
 

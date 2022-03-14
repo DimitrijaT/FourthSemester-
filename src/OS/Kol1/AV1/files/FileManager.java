@@ -1,6 +1,6 @@
-package OS.Semestar1.AV1.files;
+package OS.Kol1.AV1.files;
 
-import OS.Semestar1.AV1.exceptions.FileExistsException;
+import OS.Kol1.AV1.exceptions.FileExistsException;
 
 import java.io.File;
 import java.io.FileNotFoundException;

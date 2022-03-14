@@ -1,6 +1,6 @@
-package OS.Semestar1.AV25.impl;
+package OS.Kol1.AV25.impl;
 
-import OS.Semestar1.AV25.IOStreamManager;
+import OS.Kol1.AV25.IOStreamManager;
 
 import java.io.*;
 
